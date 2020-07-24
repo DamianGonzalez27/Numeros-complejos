@@ -2,15 +2,11 @@
 
 # Numeros Complejos
 
-Esto es una aplicacion hecha en Kodemia
-
-## Consumo de API de Rick And Morty
-
-- Creacion de repositorio en git
+Esto es una practica escolar que tiene como objetivo calcular numero complejos con el lenguaje de programacion Java.
 
 ### Sigueme en mis redes sociales:
 - [Facebook](https://www.facebook.com/DamianGonzalezDev)
-- [Twitter](https://twitter.com/DamianDev1)clear
+- [Twitter](https://twitter.com/DamianDev1)
 - [Linkedin](https://www.linkedin.com/in/damiangonzalezdev/)
 - [Youtube](https://www.youtube.com/channel/UCS2RPa81nBPQAiUFjmy2aWA?view_as=subscriber)
 
